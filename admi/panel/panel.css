@@ -1,0 +1,235 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+*
+{
+    font-family: 'Roboto', sans-serif;
+}
+body
+{
+    margin:0;
+    padding:0;
+    background-color: #F5F5F5;
+}
+.header
+{
+    background-color: #007ACC;
+    color:#fff;
+    padding:20px 0;
+}
+.admin i
+{
+    margin-left:50px;
+    margin-right:5px;
+}
+.gosite a
+{
+    color:#fff;
+}
+.gosite a i
+{
+    margin-left:50px;
+    margin-right:5px;
+}
+.gosite a:hover
+{
+    color:#fff;
+    text-decoration: underline;
+}
+.block
+{
+    width:100%;
+}
+.block a
+{
+    display: block;
+    width:100%;
+    text-align:center;
+    padding:10px 0;
+    font-size:15px;
+    border:1px solid #eeeeee;
+}
+.block a:hover
+{
+    color:#fff;
+    text-decoration: none;
+    background-color: #F4AE03;
+}
+.nomre
+{
+    margin-top:100px;
+}
+.pre
+{
+    margin-left:50px;
+    font-size:3vw;
+    padding:10px 20px;
+    color:#fff;
+    background-color:#4A8AF4;
+}
+.ni ,.qiy,.yer,.map
+{
+    margin-left:5px;
+    padding-left:10px;
+    font-size:2vw;
+    width:30%;
+}
+.qiy
+{
+    width:15%;
+}
+.yer
+{
+    width:45%;
+    margin-left:40px;
+}
+.regi
+{
+    margin-left:5px;
+    font-size:2vw;
+}
+.upa
+{
+    margin:20px auto;
+    width:80%;
+}
+.bol 
+{
+    width:100%;
+    padding:10px 2px;
+    color:#fff;
+    background-color:#4A8AF4;
+}
+.died
+{
+    margin-top:20px;
+}
+.categori2
+{
+    margin-top:20px;
+    height:6vh;
+    line-height: 6vh;
+}
+.categori2 input[type=text]
+{
+    width:80%;
+}
+.sec_kat
+{
+    padding:10px;
+    font-size:1.5vw;
+}
+.pox
+{
+    text-align:center;
+}
+.pox input
+{
+    color:#fff;
+    background-color:#4A8AF4;
+    width:50%;
+}
+.side_block
+{
+    width:50%;
+    margin:50px auto;
+}
+.ss_block
+{
+    border-bottom: 1px solid #4A8AF4;
+    height: 11vh;
+    line-height: 11vh;
+}
+.ss_block span
+{
+    padding:0 40px;
+}
+.love
+{
+    width:100px;
+}
+.love img
+{
+    width:100%;
+}
+.selik
+{
+    margin-top:20px;
+}
+.selik input[type=submit]
+{
+    color:#fff;
+    background-color:#DC4C3F;
+    margin-left:50px;
+    border:2px solid #fff;
+    padding:10px 20px; 
+}
+.sub_real
+{
+    width:50%;
+    height:5vh;
+}
+.sub_real input
+{
+    width:100%;
+}
+.hulk
+{
+    position: relative;
+}
+.hett
+{
+    position: absolute;
+    top:10%;
+    left:75%;
+    width:1px;
+    height:100vh;
+    background-color:#DBB4CC;
+}
+.real:nth-child(2) div
+{
+    margin-top:20px;
+    width:100%;
+    position: relative;
+}
+.real:nth-child(2) div input
+{
+    width:110%;
+    height:7vh;
+    padding-left:10px;
+}
+.real:nth-child(2) div i
+{
+    position: absolute;
+    top:50%;
+    transform: translateY(-50%);
+    right:-7%;
+}
+.search_kil
+{
+    width:50px;
+}
+.search_kil img
+{
+    width:100%;
+}
+.produkt_name 
+{
+    width:50%;
+    height:8vh;
+    line-height:8vh;
+}
+.produkt_name input
+{
+    width:90%;
+    height:60%;
+    padding:10px;
+}
+#batman
+{
+    position: absolute;
+    opacity: 0;
+    width:1px;
+}
+.joker
+{
+    margin:5px 0;
+}

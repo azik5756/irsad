@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+*
+{
+    font-family: 'Roboto', sans-serif;
+}
+body
+{
+    margin:0;
+    padding:0;
+    background-color: #F5F5F5;
+}
+.admin
+{
+    width:40%;
+    margin:10vh auto;
+    box-shadow:0 0 20px 1px #FF00AE;
+}
+.sekil
+{
+    width:30%;
+    margin:0 auto;
+}
+.sekil img
+{
+    width:100%;
+}
+.login
+{
+    width:90%;
+    margin:20px auto;
+    position: relative;
+}
+.knopka
+{
+    width:50%;
+    margin:20px auto;
+}
+.login i
+{
+    position: absolute;
+    top:50%;
+    left:3%;
+    transform: translateY(-50%);
+}
+.login input
+{
+    width:100%;
+    padding:10px 40px;
+}
+input[type=submit]
+{
+    border:none;
+    outline:none;
+    background-color: #007ACC;
+    border:1px solid #007ACC;
+    text-align:center;
+    margin:10px auto 20px auto;
+    width:100%;
+    padding: 10px 20px;
+    color:#fff;
+    font-weight: bold;
+    font-size:20px;
+    cursor:pointer;
+    transition:.4s ease;
+}
+input[type=submit]:hover
+{
+    background-color: #fff;
+    color:#007ACC;
+    transition:.4s ease;
+}
